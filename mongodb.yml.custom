@@ -1,0 +1,5 @@
+host: localhost
+port: 0
+username: user
+passwd: user
+database: db
